@@ -154,20 +154,23 @@
 	overflow: hidden;
 }
 
-.media-block3 {
+#media-block3-image {
 	float:left;
 	padding-right: 10px;
 }
 
-.media-block3-text p {
+.media-block3-text {
 	overflow: hidden;
 }
 
-.media-block3-nested img {
+.media-block3-nested-image {
 	float:left;
 	padding-right: 10px;
 }
 
+.media-block3-nested-text {
+	overflow: hidden;
+}
 
 
 

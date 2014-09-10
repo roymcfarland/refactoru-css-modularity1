@@ -1,0 +1,208 @@
+/* ADD YOUR STYLES HERE */
+
+
+
+/***    TABLE 1       ***/
+
+.table1 {
+	width: 100%;
+}
+
+.table1 td {
+	height: 40px;
+	vertical-align: center;
+}
+
+.table1 tr {
+	border-bottom: 1px solid #BFBFBD;
+}
+
+.table1 tr:last-child {
+	border-bottom: none;
+}
+
+
+
+/***    TABLE 2      ***/
+
+.table2 {
+	width: 100%;
+}
+
+.table2 thead {
+	border-bottom: 1px solid #BFBFBD;
+	font-weight: bold;
+}
+
+.table2 td {
+	height: 40px;
+	vertical-align: center;
+}
+
+.table2 tr {
+	border-bottom: 1px solid #BFBFBD;
+}
+
+.table2 tr:last-child {
+	border-bottom: none;
+}
+
+
+
+/***    TABLE 3      ***/
+
+.table3 {
+	width: 25%;
+	border-top: 1px solid #BFBFBD;
+	border-bottom: 1px solid #BFBFBD;
+}
+
+.big-numbers {
+	vertical-align: center;
+	text-align: center;
+	font-size: 2em;
+	font-weight: bold;
+	margin-top: 20px;
+}
+
+.small-words {
+	vertical-align: center;
+	text-align: center;
+	font-size: small;
+	color: #BFBFBD;
+	margin-bottom: 20px;
+}
+
+
+
+/***    BAR CHART   ***/
+
+.bar-chart {
+	width: 700px;
+}
+
+.bar-chart th {
+	text-align: right;
+	padding-right: 5px;
+	width: 90px;
+}
+
+.bar-chart td div {
+	color: white;
+	margin-left: 5px;
+	padding: 4px;
+	background-color: #6699FF;
+	border-bottom: 1px solid white;
+	border-radius: 4px;
+}
+
+
+
+/***    LIGHTBOX   ***/
+
+/*
+.lightbox {
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	background: rgba(0, 0, 0, 0.7);
+	display: table;
+	padding: 10px;
+}
+
+.lightbox-box {
+	background-color: #fff;
+	padding: 30px;
+	border-radius: 5px;
+	max-width: 500px;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+	top: 250px;
+}
+
+.lightbox-box h3 {
+	font-weight: bold;
+}
+
+#button {
+	float: right;
+	color: white;
+	background-color: #EB8AAE;
+	padding: 10px 30px 10px 30px;
+	border-radius: 5px;
+}
+*/
+
+
+
+/***  MEDIA BLOCKS  ***/
+
+.media-block1 {
+	float: left;
+	padding-right: 10px;
+}
+
+.media-block2 {
+	float: left;
+	padding-right: 10px;
+}
+
+.media-block2-text p {
+	overflow: hidden;
+}
+
+.media-block3 {
+	float:left;
+	padding-right: 10px;
+}
+
+.media-block3-text p {
+	overflow: hidden;
+}
+
+.media-block3-nested img {
+	float:left;
+	padding-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
